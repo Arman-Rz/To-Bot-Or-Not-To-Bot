@@ -109,9 +109,9 @@ combines:
    ```  
     ├── data/
     |  └── twibot22/
-    |  ├── users.json
-    |  ├── labels.csv
-    |  └── tweet_0.json
+    |      ├── users.json
+    |      ├── labels.csv
+    |      └── tweet_0.json
    ```
 
 4.  Run the Project
