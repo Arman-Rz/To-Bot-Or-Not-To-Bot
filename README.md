@@ -97,7 +97,7 @@ combines:
 
 1.  Clone the repo:
     ```bash
-        git clone https://github.com/Arman-Rz/To-Bot-or-Not-To-Bot.git
+        git clone https://github.com/Arman-Rz/To-Bot-Or-Not-To-Bot.git
         cd To-Bot-or-Not-To-Bot
     ```
 2.  Install dependencies:
