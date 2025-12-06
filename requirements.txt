@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy
+pandas
+
+# HTTP + utilities
+requests
+tqdm
+ijson
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Deep learning
+torch
+transformers
+
+# Images (PIL)
+Pillow
+
+# Plotting
+matplotlib
+seaborn
