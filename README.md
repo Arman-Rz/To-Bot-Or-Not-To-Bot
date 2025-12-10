@@ -97,8 +97,8 @@ combines:
 
 1.  Clone the repo:
     ```bash
-        git clone https://github.com/Arman-Rz/To-Bot-or-Not-To-Bot.git
-        cd To-Bot-or-Not-To-Bot
+        git clone https://github.com/Arman-Rz/To-Bot-Or-Not-To-Bot.git
+        cd To-Bot-Or-Not-To-Bot
     ```
 2.  Install dependencies:
     ```bash
@@ -107,13 +107,12 @@ combines:
 3.  Download datasets manually
     Due to licensing, download dataset from the provided link, nad place them under:
     ```  
-     ├── data/
-    | └── twibot22/
-    | ├── users.json
-    | ├── labels.csv
-    | └── tweet_0.json
-
-        ```
+    ├── data/
+    |  └── twibot22/
+    |      ├── users.json
+    |      ├── labels.csv
+    |      └── tweet_0.json
+    ```
 
 4.  Run the Project
     To fully reproduce all the results reported in this study, run the notebooks in the following order: 1. `01_data_cleaning_twibot22.ipynb` 2. `02_roberta_finetuning.ipynb` 3. `03_clip_multimodal.ipynb` 4. `04_multimodal_fusion.ipynb`
